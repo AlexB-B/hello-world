@@ -12,3 +12,5 @@ What if I change the file here on my mac. Online, I add to a line
 A change on line 12 you say?
 
 add extra line offline
+
+add another extra line, but this time, let's not commit to anything
