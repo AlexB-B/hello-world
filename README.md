@@ -9,7 +9,7 @@ Let's try updating from the online repository
 
 What if I change the file here on my mac. Online, I add to a line
 
-A change on line 12 you say?
+A change on line 12 you say? There are uncommitted changes offline. This shouldn't conflict, so what happens if I pull this.
 
 add extra line offline
 
