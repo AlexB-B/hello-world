@@ -10,3 +10,5 @@ Let's try updating from the online repository
 What if I change the file here on my mac
 
 A change on line 12 you say?
+
+add extra line offline
